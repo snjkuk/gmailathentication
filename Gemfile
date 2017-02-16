@@ -56,3 +56,7 @@ gem "omniauth-google-oauth2"
 gem 'omniauth-oauth2', '~> 1.3.1'
 gem 'elasticsearch-model'
 gem 'elasticsearch-rails'
+gem 'omniauth-facebook'
+gem "omniauth-linkedin"
+gem 'omniauth-twitter'
+gem 'omniauth'
